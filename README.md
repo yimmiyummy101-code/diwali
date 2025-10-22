@@ -1,2 +1,2 @@
 # diwali
-![Uploading image.png…]()
+![App Screenshot](assets/diwali.png)
